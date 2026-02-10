@@ -4,7 +4,7 @@ A simple to-do list app built with Django.
 
 
 <div style="text-align: center;">
-<img src="todos/static/todos/images/example.png" alt="Example" width="500" height="800">
+  <img src="todos/static/todos/images/example.png" alt="Example" width="500" height="800">
 </div>
  
  
