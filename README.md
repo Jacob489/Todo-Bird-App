@@ -1,6 +1,8 @@
 # Todo Bird
 
 A simple to-do list app built with Django.
+
+
 <img src="todos/static/todos/images/example.png" alt="Example" width="500" height="800">
 
  
