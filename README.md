@@ -2,6 +2,8 @@
 
 A simple to-do list app built with Django.
 
+![Example](todos/static/todos/images)
+ 
 ## Setup
 
 1. **Create a virtual environment** (recommended):
