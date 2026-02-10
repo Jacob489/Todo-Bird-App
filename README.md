@@ -2,7 +2,7 @@
 
 A simple to-do list app built with Django.
 
-![Example](todos/static/todos/images)
+![Example](todos/static/todos/images/dodo.png)
  
 ## Setup
 
